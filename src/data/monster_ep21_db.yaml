@@ -1,0 +1,788 @@
+  - Id: 22383
+    AegisName: VIOLEN
+    Name: 비올렌
+    Level: 273
+    Hp: 25126600
+    BaseExp: 3414800
+    JobExp: 2384392
+    Attack: -228
+    Attack2: null
+    Defense: 273
+    MagicDefense: 178
+    Str: 160
+    Agi: 155
+    Vit: 102
+    Int: 135
+    Dex: 201
+    Luk: 252
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 0
+    ElementLevel: 3
+    WalkSpeed: 200.0
+    AttackDelay: 841
+    AttackMotion: 840
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Golden_Jewel
+      Rate: 0
+    - Item: Hot_Water_Drop_Gem
+      Rate: 0
+    - Item: Shining_Crystal
+      Rate: 0
+    - Item: Small_Sewing_Box
+      Rate: 0
+  - Id: 22384
+    AegisName: CP_VIOLEN
+    Name: 강인한 비올렌
+    Level: 273
+    Hp: 55293200
+    BaseExp: 10244398
+    JobExp: 7153178
+    Attack: -228
+    Attack2: null
+    Defense: 327
+    MagicDefense: 238
+    Str: 229
+    Agi: 232
+    Vit: 145
+    Int: 201
+    Dex: 307
+    Luk: 374
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 0
+    ElementLevel: 3
+    WalkSpeed: 200.0
+    AttackDelay: 841
+    AttackMotion: 840
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Shining_Crystal
+      Rate: 0
+    - Item: Small_Sewing_Box
+      Rate: 0
+    - Item: Etel_Stone
+      Rate: 0
+  - Id: 22385
+    AegisName: SPIDING
+    Name: 거밍
+    Level: 273
+    Hp: 23018500
+    BaseExp: 3385982
+    JobExp: 2364272
+    Attack: -228
+    Attack2: null
+    Defense: 305
+    MagicDefense: 203
+    Str: 235
+    Agi: 227
+    Vit: 254
+    Int: 198
+    Dex: 229
+    Luk: 347
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 4
+    Element: 7
+    ElementLevel: 2
+    WalkSpeed: 120.0
+    AttackDelay: 672
+    AttackMotion: 1344
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Etel_Dust
+      Rate: 0
+    - Item: Congealed_Poison
+      Rate: 0
+    - Item: Firm_Land_Crystal
+      Rate: 0
+    - Item: Ectoplasmic_Stone
+      Rate: 0
+  - Id: 22386
+    AegisName: CP_SPIDING
+    Name: 강인한 거밍
+    Level: 273
+    Hp: 50648900
+    BaseExp: 10157948
+    JobExp: 7092814
+    Attack: -228
+    Attack2: null
+    Defense: 350
+    MagicDefense: 254
+    Str: 269
+    Agi: 272
+    Vit: 176
+    Int: 235
+    Dex: 345
+    Luk: 425
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 4
+    Element: 7
+    ElementLevel: 2
+    WalkSpeed: 120.0
+    AttackDelay: 796
+    AttackMotion: 1344
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Congealed_Poison
+      Rate: 0
+    - Item: Firm_Land_Crystal
+      Rate: 0
+    - Item: Shadowdecon
+      Rate: 0
+  - Id: 22387
+    AegisName: GARLING
+    Name: 갈링
+    Level: 274
+    Hp: 24468900
+    BaseExp: 3426154
+    JobExp: 2386316
+    Attack: -228
+    Attack2: null
+    Defense: 522
+    MagicDefense: 243
+    Str: 310
+    Agi: 231
+    Vit: 246
+    Int: 198
+    Dex: 243
+    Luk: 373
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 3
+    Element: 3
+    ElementLevel: 3
+    WalkSpeed: 100.0
+    AttackDelay: 721
+    AttackMotion: 360
+    DamageMotion: 480.0
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+      Item: apple
+      Rate: 0
+  - Id: 22388
+    AegisName: CP_GARLING
+    Name: 강인한 갈링
+    Level: 274
+    Hp: 53843500
+    BaseExp: 10278462
+    JobExp: 7158950
+    Attack: -228
+    Attack2: null
+    Defense: 607
+    MagicDefense: 305
+    Str: 354
+    Agi: 256
+    Vit: 281
+    Int: 236
+    Dex: 363
+    Luk: 455
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 3
+    Element: 3
+    ElementLevel: 3
+    WalkSpeed: 100.0
+    AttackDelay: 727
+    AttackMotion: 360
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+      Item: apple
+      Rate: 0
+  - Id: 22389
+    AegisName: JACKONETTE
+    Name: 잭오네트
+    Level: 274
+    Hp: 22990300
+    BaseExp: 3463024
+    JobExp: 2422910
+    Attack: -228
+    Attack2: null
+    Defense: 317
+    MagicDefense: 410
+    Str: 176
+    Agi: 181
+    Vit: 198
+    Int: 267
+    Dex: 227
+    Luk: 378
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 6
+    Element: 8
+    ElementLevel: 2
+    WalkSpeed: 180.0
+    AttackDelay: 520
+    AttackMotion: 480
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Shadowdecon
+      Rate: 0
+    - Item: Ice_Water_Drop_Gem
+      Rate: 0
+    - Item: Small_Sewing_Box
+      Rate: 0
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Etel_Dust
+      Rate: 0
+    - Item: Amber
+      Rate: 0
+  - Id: 22390
+    AegisName: CP_JACKONETTE
+    Name: 강인한 잭오네트
+    Level: 274
+    Hp: 50588600
+    BaseExp: 10389072
+    JobExp: 7272728
+    Attack: -228
+    Attack2: null
+    Defense: 366
+    MagicDefense: 520
+    Str: 201
+    Agi: 218
+    Vit: 226
+    Int: 318
+    Dex: 341
+    Luk: 460
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 6
+    Element: 8
+    ElementLevel: 2
+    WalkSpeed: 180.0
+    AttackDelay: 520
+    AttackMotion: 480
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Small_Sewing_Box
+      Rate: 0
+    - Item: Ice_Water_Drop_Gem
+      Rate: 0
+  - Id: 22391
+    AegisName: LIAMETTE
+    Name: 리아멧트
+    Level: 275
+    Hp: 29946400
+    BaseExp: 3521528
+    JobExp: 2452744
+    Attack: -229
+    Attack2: null
+    Defense: 469
+    MagicDefense: 218
+    Str: 231
+    Agi: 159
+    Vit: 181
+    Int: 148
+    Dex: 183
+    Luk: 290
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 2
+    ElementLevel: 3
+    WalkSpeed: 150.0
+    AttackDelay: 580
+    AttackMotion: 432
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Blue_Flame_Heart_Gem
+      Rate: 0
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Heavy_Chain
+      Rate: 0
+    - Item: Etel_Dust
+      Rate: 0
+    - Item: Etel_Stone
+      Rate: 0
+    - Item: Zelunium
+      Rate: 0
+    - Item: Violet_Jewel
+      Rate: 0
+  - Id: 22392
+    AegisName: CP_LIAMETTE
+    Name: 강인한 리아멧트
+    Level: 275
+    Hp: 65891020
+    BaseExp: 10564584
+    JobExp: 7358234
+    Attack: -229
+    Attack2: null
+    Defense: 540
+    MagicDefense: 271
+    Str: 264
+    Agi: 191
+    Vit: 209
+    Int: 176
+    Dex: 280
+    Luk: 359
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 2
+    ElementLevel: 3
+    WalkSpeed: 150.0
+    AttackDelay: 581
+    AttackMotion: 432
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Violet_Jewel
+      Rate: 0
+    - Item: Zelunium
+      Rate: 0
+    - Item: Etel_Dust
+      Rate: 0
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Heavy_Chain
+      Rate: 0
+    - Item: Blue_Flame_Heart_Gem
+      Rate: 0
+  - Id: 22394
+    AegisName: NIGHTMARE_PIAMETTE
+    Name: 악몽의 피아멧트
+    Level: 275
+    Hp: 754280400
+    BaseExp: 45014318
+    JobExp: 31352472
+    Attack: -229
+    Attack2: null
+    Defense: 1308
+    MagicDefense: 658
+    Str: 416
+    Agi: 301
+    Vit: 330
+    Int: 278
+    Dex: 421
+    Luk: 521
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 7
+    Element: 0
+    ElementLevel: 3
+    WalkSpeed: null
+    AttackDelay: 0
+    AttackMotion: 0
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+      Item: apple
+      Rate: 0
+  - Id: 22395
+    AegisName: MEDJED
+    Name: 메제드
+    Level: 272
+    Hp: 23535500
+    BaseExp: 3367462
+    JobExp: 2345438
+    Attack: -227
+    Attack2: null
+    Defense: 502
+    MagicDefense: 233
+    Str: 283
+    Agi: 195
+    Vit: 225
+    Int: 181
+    Dex: 222
+    Luk: 345
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 8
+    Element: 8
+    ElementLevel: 2
+    WalkSpeed: 120.0
+    AttackDelay: 568
+    AttackMotion: 432
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Turn_Yellow_Leaf
+      Rate: 0
+    - Item: Whittling
+      Rate: 0
+    - Item: Amber
+      Rate: 0
+    - Item: Golden_Jewel
+      Rate: 0
+  - Id: 22396
+    AegisName: CP_MEDJED
+    Name: 강인한 메제드
+    Level: 272
+    Hp: 51788960
+    BaseExp: 10102388
+    JobExp: 7036314
+    Attack: -227
+    Attack2: null
+    Defense: 582
+    MagicDefense: 292
+    Str: 323
+    Agi: 234
+    Vit: 257
+    Int: 216
+    Dex: 335
+    Luk: 422
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 0
+    Race: 8
+    Element: 8
+    ElementLevel: 2
+    WalkSpeed: 120.0
+    AttackDelay: 568
+    AttackMotion: 432
+    DamageMotion: 480.0
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Whittling
+      Rate: 0
+    - Item: Turn_Yellow_Leaf
+      Rate: 0
+    - Item: Blue_Flame_Heart_Gem
+      Rate: 0
+  - Id: 22397
+    AegisName: MEDJAY
+    Name: 메자이
+    Level: 274
+    Hp: 26708750
+    BaseExp: 3484274
+    JobExp: 2426796
+    Attack: -228
+    Attack2: null
+    Defense: 474
+    MagicDefense: 221
+    Str: 239
+    Agi: 165
+    Vit: 190
+    Int: 153
+    Dex: 188
+    Luk: 299
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 3
+    ElementLevel: 3
+    WalkSpeed: 150.0
+    AttackDelay: 437
+    AttackMotion: 576
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Red_Flame_Heart_Gem
+      Rate: 0
+    - Item: Blaze_Stone
+      Rate: 0
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Amber
+      Rate: 0
+  - Id: 22398
+    AegisName: CP_MEDJAY
+    Name: 강인한 메자이
+    Level: 274
+    Hp: 58768350
+    BaseExp: 10452822
+    JobExp: 7280390
+    Attack: -229
+    Attack2: null
+    Defense: 547
+    MagicDefense: 274
+    Str: 273
+    Agi: 198
+    Vit: 217
+    Int: 183
+    Dex: 289
+    Luk: 369
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 1
+    Race: 7
+    Element: 3
+    ElementLevel: 3
+    WalkSpeed: 150.0
+    AttackDelay: 583
+    AttackMotion: 576
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Etel_Dust
+      Rate: 0
+    - Item: Evil_Minded_Ruby
+      Rate: 0
+    - Item: Blaze_Stone
+      Rate: 0
+  - Id: 22399
+    AegisName: OPHOIS
+    Name: 오포이스
+    Level: 275
+    Hp: 27228250
+    BaseExp: 3521528
+    JobExp: 2452744
+    Attack: -229
+    Attack2: null
+    Defense: 478
+    MagicDefense: 223
+    Str: 244
+    Agi: 168
+    Vit: 194
+    Int: 157
+    Dex: 194
+    Luk: 304
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 1
+    Element: 7
+    ElementLevel: 2
+    WalkSpeed: 150.0
+    AttackDelay: 482
+    AttackMotion: 576
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Congealed_Poison
+      Rate: 0
+    - Item: Dry_Wind_Leaf_Gem
+      Rate: 0
+    - Item: Evil_Black_Bid
+      Rate: 0
+    - Item: Violet_Jewel
+      Rate: 0
+  - Id: 22400
+    AegisName: CP_OPHOIS
+    Name: 강인한 오포이스
+    Level: 275
+    Hp: 60011470
+    BaseExp: 10564584
+    JobExp: 7358234
+    Attack: -229
+    Attack2: null
+    Defense: 552
+    MagicDefense: 277
+    Str: 279
+    Agi: 202
+    Vit: 222
+    Int: 186
+    Dex: 294
+    Luk: 375
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 1
+    Element: 7
+    ElementLevel: 2
+    WalkSpeed: 170.0
+    AttackDelay: 582
+    AttackMotion: 576
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Congealed_Poison
+      Rate: 0
+  - Id: 22401
+    AegisName: HEKA
+    Name: 헤카
+    Level: 273
+    Hp: 23207890
+    BaseExp: 3411768
+    JobExp: 2387048
+    Attack: -228
+    Attack2: null
+    Defense: 282
+    MagicDefense: 364
+    Str: 133
+    Agi: 137
+    Vit: 145
+    Int: 201
+    Dex: 220
+    Luk: 297
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 6
+    Element: 4
+    ElementLevel: 3
+    WalkSpeed: 200.0
+    AttackDelay: 505
+    AttackMotion: 504
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Slicky_Fluid
+      Rate: 0
+    - Item: Shining_Crystal
+      Rate: 0
+    - Item: Shadowdecon
+      Rate: 0
+  - Id: 22402
+    AegisName: CP_HEKA
+    Name: 강인한 헤카
+    Level: 273
+    Hp: 51101790
+    BaseExp: 10235304
+    JobExp: 7161144
+    Attack: -228
+    Attack2: null
+    Defense: 348
+    MagicDefense: 504
+    Str: 189
+    Agi: 205
+    Vit: 207
+    Int: 300
+    Dex: 332
+    Luk: 438
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 6
+    Element: 4
+    ElementLevel: 3
+    WalkSpeed: 200.0
+    AttackDelay: 518
+    AttackMotion: 504
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+    - Item: Shining_Crystal
+      Rate: 0
+    - Item: Slicky_Fluid
+      Rate: 0
+  - Id: 22404
+    AegisName: GUIDE_OF_DEAD
+    Name: 사자의 인도자
+    Level: 275
+    Hp: 776870690
+    BaseExp: 45014318
+    JobExp: 31352472
+    Attack: -229
+    Attack2: null
+    Defense: 1312
+    MagicDefense: 660
+    Str: 419
+    Agi: 303
+    Vit: 332
+    Int: 280
+    Dex: 243
+    Luk: 524
+    AttackRange: null
+    SkillRange: 10
+    ChaseRange: 12
+    Size: 2
+    Race: 1
+    Element: 7
+    ElementLevel: 3
+    WalkSpeed: 120.0
+    AttackDelay: 11905
+    AttackMotion: 1152
+    DamageMotion: null
+    DamageTaken: 0
+    Ai: 21
+    Modes:
+      Detector: true
+    Drops:
+      Item: apple
+      Rate: 0
